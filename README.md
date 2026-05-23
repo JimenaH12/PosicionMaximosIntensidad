@@ -109,7 +109,7 @@ PosicionMaximosIntensidad.java
 
 ## Autores y afiliación
 
-Desarrollado en el marco del proyecto de investigación sobre control de calidad del PET/CT Biograph Vision 450 Edge.
+Desarrollado en el marco del proyecto de investigación sobre control de calidad del PET/CT Biograph Vision 450 Edge por Iván Rojas Duarte (Desarrollador de código), Jimena Hernández Tames (Documentación) y el supervisor Erick Mora Ramírez
 
 **Escuela de Física — Universidad de Costa Rica**
 Centro de Investigación en Ciencias Atómicas, Nucleares y Moleculares (CICANUM-UCR)
