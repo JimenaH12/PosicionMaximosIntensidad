@@ -1,6 +1,6 @@
 # PosicionMaximosIntensidad
 
-Plugin para [ImageJ/Fiji](https://fiji.sc/) desarrollado como parte de un proyecto de investigación en física médica de la [Universidad de Costa Rica (UCR)](https://www.ucr.ac.cr/). Permite extraer y registrar la posición de los máximos de intensidad en stacks de imágenes DICOM adquiridas con el escáner **PET/CT Biograph Vision 450 Edge** del Centro de Investigación en Ciencias Atómicas, Nucleares y Moleculares (CICANUM-UCR).
+Plugin para [ImageJ/Fiji](https://fiji.sc/) desarrollado como parte de un proyecto de investigación en física médica de la [Universidad de Costa Rica (UCR)](https://www.ucr.ac.cr/). Permite extraer y registrar la posición de los máximos de intensidad en stacks de imágenes DICOM adquiridas con el escáner **PET/CT Biograph Vision 450 Edge** del Centro de Investigación en Ciencias Atómicas, Nucleares y Moleculares (CICANUM-UCR). El documento correspondiente se encuentra anexo con el nombre "Documentación Plugin"
 
 ---
 
